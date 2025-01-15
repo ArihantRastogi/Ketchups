@@ -1,7 +1,7 @@
 # ketchUP video editor
 This was the Intro to Software Systems course project. The below milestones show our progress through out the course. This was a group project with my teammates listed below.
-[Prasoon Dev](https://github.com/prasoondev)
-[Malavathula Kartik Venkat](https://github.com/karthikvmala)
+- [Prasoon Dev](https://github.com/prasoondev)
+- [Malavathula Kartik Venkat](https://github.com/karthikvmala)
 
 ### To pull the latest changes from the repository
 
