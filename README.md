@@ -1,5 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/M9yOg1uw)
 # ketchUP video editor
+This was the Intro to Software Systems course project. The below milestones show our progress through out the course. This was a group project with my teammates listed below.
+[Prasoon Dev](https://github.com/prasoondev)
+[Malavathula Kartik Venkat](https://github.com/karthikvmala)
 
 ### To pull the latest changes from the repository
 
@@ -8,7 +10,11 @@ git pull
 ### Admin Login Details 
 username: admnin
 password: 123456
-\
+
+### Milestone 1 
+
+- The styling was done (frontend with HTML, CSS and JS).
+
 ### Milestone 2 
 
 - Install all necessary mysql extensions such as flask-mysqldb, mysql-connector by using pip install in the venv (For Mac) or directly in Terminal for Linux users. 
